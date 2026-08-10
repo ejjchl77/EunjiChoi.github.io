@@ -37,3 +37,12 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+/* 사이드바 전체 너비 조정 */
+.sidebar {
+  width: 260px !important; 
+}
+
+/* 사이드바 글자 크기 살짝 줄이기 (잘림 방지) */
+.author__urls {
+  font-size: 0.85em;
+}
