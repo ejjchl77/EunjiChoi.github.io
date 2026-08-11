@@ -6,11 +6,17 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% if post.citation %}
+  {% assign pub_authors = post.citation | split: " (" | first %}
+  {% assign pub_authors = pub_authors | replace: "Choi, E.J.", "<strong>Choi, E.J.</strong>" %}
+{% endif %}
+
 <a class="pub-card pub-card--{{ post.category }}" href="{{ base_path }}{{ post.url }}">
   <div class="pub-card__meta">
     <span class="pub-card__badge pub-card__badge--{{ post.category }}">{{ post.category }}</span>
     {% if post.date %}<span class="pub-card__date">{{ post.date | date: "%b %Y" }}</span>{% endif %}
   </div>
   <h3 class="pub-card__title">{{ title }}</h3>
+  {% if pub_authors %}<p class="pub-card__authors">{{ pub_authors }}</p>{% endif %}
   {% if post.venue %}<p class="pub-card__venue">{{ post.venue }}</p>{% endif %}
 </a>
