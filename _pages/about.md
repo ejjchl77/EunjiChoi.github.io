@@ -60,7 +60,9 @@ I develop AI-driven systems that connect real-time information about people, suc
   </div>
 </div>
 
-<h3 class="timeline-subheading">🎓 Education</h3>
+---
+
+## 🎓 Education</h3>
 
 <div class="timeline">
   <div class="timeline-item">
@@ -127,14 +129,14 @@ I develop AI-driven systems that connect real-time information about people, suc
 
 <div class="award-grid">
   <div class="award-item">
-    <span class="award-item__year">2026</span>
+    <span class="award-item__year">2026</span></span>
     <div class="award-item__body">
       <strong>Received the IAQVEC Fellowship Award</strong>
       <span class="award-item__org">IAQVEC 2026</span>
     </div>
   </div>
   <div class="award-item">
-    <span class="award-item__year">2026</span>
+    <span class="award-item__year">2026</span></span>
     <div class="award-item__body">
       <strong>Guest Editor</strong>
       <span class="award-item__org">"Low-Carbon Comfort and Climate-Resilient Design in Buildings and Complex Infrastructure" — <a href="https://www.mdpi.com/journal/buildings/special_issues/5041OCTUB1#editors" target="_blank" rel="noopener"><em>Buildings</em></a></span>
@@ -145,8 +147,8 @@ I develop AI-driven systems that connect real-time information about people, suc
     <div class="award-item__body">
       <strong>New paper published as corresponding author</strong>
       <span class="award-item__org"><em>Journal of Building Engineering</em></span>
-      <span class="award-item__detail">"Evaluation of Thermal Control Based on Spatial Thermal Comfort with Reconstructed Environmental Data"</span>
-      <span class="award-item__detail">DOI: <a href="https://doi.org/10.1016/j.jobe.2025.114512" target="_blank" rel="noopener">10.1016/j.jobe.2025.114512</a></span>
+      <span class="award-item__org">"Evaluation of Thermal Control Based on Spatial Thermal Comfort with Reconstructed Environmental Data"</span>
+      <span class="award-item__org">DOI: <a href="https://doi.org/10.1016/j.jobe.2025.114512" target="_blank" rel="noopener">10.1016/j.jobe.2025.114512</a></span>
     </div>
   </div>
 </div>
