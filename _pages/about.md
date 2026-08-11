@@ -83,43 +83,26 @@ I develop AI-driven systems that connect real-time information about people, suc
 
 ## 🛠️ Technical Skills
 
-<div class="skill-group">
-  <span class="skill-group__label">Architecture Software</span>
-  <div class="skill-tags">
-    <span class="skill-tag">CAD</span>
-    <span class="skill-tag">Revit</span>
-    <span class="skill-tag">SketchUp</span>
+<div class="skill-table">
+  <div class="skill-row">
+    <span class="skill-row__label">AI</span>
+    <span class="skill-row__value">Computer Vision, Vision Transformer, Deep Learning, Multimodal Learning, Pose Estimation, YOLO, CNN, Sequence Modeling</span>
   </div>
-</div>
-<div class="skill-group">
-  <span class="skill-group__label">Building Simulation</span>
-  <div class="skill-tags">
-    <span class="skill-tag">EnergyPlus</span>
-    <span class="skill-tag">TRNSYS</span>
-    <span class="skill-tag">eQUEST</span>
+  <div class="skill-row">
+    <span class="skill-row__label">Programming</span>
+    <span class="skill-row__value">Python, PyTorch, and scientific computing libraries (NumPy, SciPy, scikit-learn, Pandas)</span>
   </div>
-</div>
-<div class="skill-group">
-  <span class="skill-group__label">Programming &amp; AI/ML</span>
-  <div class="skill-tags">
-    <span class="skill-tag">Python</span>
-    <span class="skill-tag">Data Processing</span>
-    <span class="skill-tag">Machine Learning</span>
-    <span class="skill-tag">Deep Learning</span>
+  <div class="skill-row">
+    <span class="skill-row__label">Building Simulation</span>
+    <span class="skill-row__value">EnergyPlus (Python API &amp; co-simulation), Revit, IES VE, TRNSYS, eQUEST</span>
   </div>
-</div>
-<div class="skill-group">
-  <span class="skill-group__label">Databases</span>
-  <div class="skill-tags">
-    <span class="skill-tag">MySQL</span>
-    <span class="skill-tag">HeidiSQL</span>
+  <div class="skill-row">
+    <span class="skill-row__label">Data &amp; Evaluation</span>
+    <span class="skill-row__value">Time-series energy and sensor data analysis, experimental design, SQL, model deployment</span>
   </div>
-</div>
-<div class="skill-group">
-  <span class="skill-group__label">IoT &amp; Embedded Systems</span>
-  <div class="skill-tags">
-    <span class="skill-tag">Arduino</span>
-    <span class="skill-tag">Raspberry Pi</span>
+  <div class="skill-row">
+    <span class="skill-row__label">IoT &amp; Prototyping</span>
+    <span class="skill-row__value">Multi-sensor data acquisition (Arduino, Raspberry Pi), embedded system integration</span>
   </div>
 </div>
 
