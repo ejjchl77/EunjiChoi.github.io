@@ -43,7 +43,24 @@ I develop AI-driven systems that connect real-time information about people, suc
 
 ---
 
-## 🎓 Education
+## 💼 Current Position
+
+<div class="timeline">
+  <div class="timeline-item timeline-item--current">
+    <div class="timeline-item__title">Postdoctoral Researcher</div>
+    <div class="timeline-item__meta">School of Architecture, University of Southern California · 2025–present</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-item__title">Research Professor</div>
+    <div class="timeline-item__meta">National Center for Carbon Neutrality in Buildings, Chung-Ang University · 2023–2025</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-item__title">Lecturer</div>
+    <div class="timeline-item__meta">Kangnam University, Yongin, South Korea · 2024</div>
+  </div>
+</div>
+
+<h3 class="timeline-subheading">🎓 Education</h3>
 
 <div class="timeline">
   <div class="timeline-item">
@@ -62,20 +79,45 @@ I develop AI-driven systems that connect real-time information about people, suc
 
 ---
 
-## 💼 Current Position
+## 🛠️ Technical Skills
 
-<div class="timeline">
-  <div class="timeline-item timeline-item--current">
-    <div class="timeline-item__title">Postdoctoral Researcher</div>
-    <div class="timeline-item__meta">School of Architecture, University of Southern California · 2025–present</div>
+<div class="skill-group">
+  <span class="skill-group__label">Architecture Software</span>
+  <div class="skill-tags">
+    <span class="skill-tag">CAD</span>
+    <span class="skill-tag">Revit</span>
+    <span class="skill-tag">SketchUp</span>
   </div>
-  <div class="timeline-item">
-    <div class="timeline-item__title">Research Professor</div>
-    <div class="timeline-item__meta">National Center for Carbon Neutrality in Buildings, Chung-Ang University · 2023–2025</div>
+</div>
+<div class="skill-group">
+  <span class="skill-group__label">Building Simulation</span>
+  <div class="skill-tags">
+    <span class="skill-tag">EnergyPlus</span>
+    <span class="skill-tag">TRNSYS</span>
+    <span class="skill-tag">eQUEST</span>
   </div>
-  <div class="timeline-item">
-    <div class="timeline-item__title">Lecturer</div>
-    <div class="timeline-item__meta">Kangnam University, Yongin, South Korea · 2024</div>
+</div>
+<div class="skill-group">
+  <span class="skill-group__label">Programming &amp; AI/ML</span>
+  <div class="skill-tags">
+    <span class="skill-tag">Python</span>
+    <span class="skill-tag">Data Processing</span>
+    <span class="skill-tag">Machine Learning</span>
+    <span class="skill-tag">Deep Learning</span>
+  </div>
+</div>
+<div class="skill-group">
+  <span class="skill-group__label">Databases</span>
+  <div class="skill-tags">
+    <span class="skill-tag">MySQL</span>
+    <span class="skill-tag">HeidiSQL</span>
+  </div>
+</div>
+<div class="skill-group">
+  <span class="skill-group__label">IoT &amp; Embedded Systems</span>
+  <div class="skill-tags">
+    <span class="skill-tag">Arduino</span>
+    <span class="skill-tag">Raspberry Pi</span>
   </div>
 </div>
 
@@ -203,7 +245,7 @@ I develop AI-driven systems that connect real-time information about people, suc
       <h3 class="exp-card__title">Conference Registration and Management Lead &amp; Scientific Committee Member, IAQVEC 2026</h3>
       <span class="exp-card__period">2025–2026</span>
     </div>
-    <p class="exp-card__org">12th International Conference on Indoor Air Quality, Ventilation &amp; Energy Conservation in Buildings, Los Angeles, USA</p>
+    <p class="exp-card__org">12th International Conference on Indoor Air Quality, Ventilation &amp; Energy Conservation in Buildings (IAQVEC), Los Angeles, USA</p>
   </div>
   <div class="exp-card exp-card--service">
     <div class="exp-card__header">
@@ -225,50 +267,6 @@ I develop AI-driven systems that connect real-time information about people, suc
       <span class="exp-card__period">2024</span>
     </div>
     <p class="exp-card__org">Chung-Ang University, Seoul, South Korea</p>
-  </div>
-</div>
-
----
-
-## 🛠️ Technical Skills
-
-<div class="skill-group">
-  <span class="skill-group__label">Architecture Software</span>
-  <div class="skill-tags">
-    <span class="skill-tag">CAD</span>
-    <span class="skill-tag">Revit</span>
-    <span class="skill-tag">SketchUp</span>
-  </div>
-</div>
-<div class="skill-group">
-  <span class="skill-group__label">Building Simulation</span>
-  <div class="skill-tags">
-    <span class="skill-tag">EnergyPlus</span>
-    <span class="skill-tag">TRNSYS</span>
-    <span class="skill-tag">eQUEST</span>
-  </div>
-</div>
-<div class="skill-group">
-  <span class="skill-group__label">Programming &amp; AI/ML</span>
-  <div class="skill-tags">
-    <span class="skill-tag">Python</span>
-    <span class="skill-tag">Data Processing</span>
-    <span class="skill-tag">Machine Learning</span>
-    <span class="skill-tag">Deep Learning</span>
-  </div>
-</div>
-<div class="skill-group">
-  <span class="skill-group__label">Databases</span>
-  <div class="skill-tags">
-    <span class="skill-tag">MySQL</span>
-    <span class="skill-tag">HeidiSQL</span>
-  </div>
-</div>
-<div class="skill-group">
-  <span class="skill-group__label">IoT &amp; Embedded Systems</span>
-  <div class="skill-tags">
-    <span class="skill-tag">Arduino</span>
-    <span class="skill-tag">Raspberry Pi</span>
   </div>
 </div>
 
