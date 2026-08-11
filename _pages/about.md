@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I develop AI-driven systems that connect real-time information about people, such as their activity, thermal state, and comfort, with how buildings are operated. My research sits at the intersection of architecture, computer vision, and building control, and I'm focused on optimizing occupant comfort and building energy efficiency together, rather than treating them as competing goals. I'm especially interested in multimodal sensing, including vision, environmental, and occupancy data, and in closed-loop AI frameworks that turn real-time human-state inference into adaptive HVAC and ventilation control.
+AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objective building optimization, jointly advancing energy efficiency and occupant comfort through end-to-end Computer Vision pipelines, Multimodal Perception, and Real-time Controls. I develop AI-driven systems that connect real-time information about people, such as their activity, thermal state, and comfort, to how buildings are operated, integrating YOLO, pose estimation, and sensor fusion to infer occupant state and space utilization. My work sits at the intersection of architecture, computer vision, and building control, and centers on closed-loop AI frameworks that turn real-time human-state inference into adaptive HVAC and ventilation control.
 
 <div class="about-hero__tags">
   <span class="about-tag">Human-Building Integration</span>
+  <span class="about-tag">Building AI/ML</span>
   <span class="about-tag">Computer Vision</span>
   <span class="about-tag">Occupant Comfort</span>
-  <span class="about-tag">Building AI/ML</span>
 </div>
 
 ## 🔬 Research Interests
