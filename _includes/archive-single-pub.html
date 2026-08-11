@@ -1,0 +1,16 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<a class="pub-card pub-card--{{ post.category }}" href="{{ base_path }}{{ post.url }}">
+  <div class="pub-card__meta">
+    <span class="pub-card__badge pub-card__badge--{{ post.category }}">{{ post.category }}</span>
+    {% if post.date %}<span class="pub-card__date">{{ post.date | date: "%b %Y" }}</span>{% endif %}
+  </div>
+  <h3 class="pub-card__title">{{ title }}</h3>
+  {% if post.venue %}<p class="pub-card__venue">{{ post.venue }}</p>{% endif %}
+</a>

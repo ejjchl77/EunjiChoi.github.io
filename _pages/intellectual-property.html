@@ -1,20 +1,17 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Intellectual Property"
+permalink: /intellectual-property/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-{% assign pub_categories = "manuscripts,conferences,books" | split: "," %}
+<div class="wordwrap">Patents, design registrations, and software developed as part of my research.</div>
 
 <div class="pub-list">
-{% for cat_key in pub_categories %}
+{% assign ip_categories = "patents,designs,software" | split: "," %}
+{% for cat_key in ip_categories %}
   {% assign title_shown = false %}
   {% for post in site.publications reversed %}
     {% if post.category != cat_key %}
@@ -29,4 +26,4 @@ author_profile: true
 {% endfor %}
 </div>
 
-<p class="pub-list__footnote">Looking for patents and software? See <a href="/intellectual-property/">Intellectual Property</a>.</p>
+<p class="pub-list__footnote">Looking for journal articles? See <a href="/publications/">Publications</a>.</p>
