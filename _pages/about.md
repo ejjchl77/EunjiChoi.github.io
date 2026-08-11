@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I develop AI-driven systems that connect real-time information about people — their activity, thermal state, and comfort — with how buildings are operated. My research sits at the intersection of architecture, computer vision, and building control, with the goal of optimizing occupant comfort and building energy efficiency together, rather than treating them as competing objectives. I'm especially interested in multimodal sensing (vision, environmental, and occupancy data) and closed-loop AI frameworks that turn real-time human-state inference into adaptive HVAC and ventilation control.
+I develop AI-driven systems that connect real-time information about people, such as their activity, thermal state, and comfort, with how buildings are operated. My research sits at the intersection of architecture, computer vision, and building control, and I'm focused on optimizing occupant comfort and building energy efficiency together, rather than treating them as competing goals. I'm especially interested in multimodal sensing, including vision, environmental, and occupancy data, and in closed-loop AI frameworks that turn real-time human-state inference into adaptive HVAC and ventilation control.
 
 <div class="about-hero__tags">
   <span class="about-tag">Human-Building Integration</span>
@@ -94,15 +94,17 @@ I develop AI-driven systems that connect real-time information about people — 
   <div class="award-item">
     <span class="award-item__year">2026</span>
     <div class="award-item__body">
-      <strong>Guest Editor for the special issue "Low-Carbon Comfort and Climate-Resilient Design in Buildings and Complex Infrastructure"</strong>
-      <span class="award-item__org">Buildings</span>
+      <strong>Guest Editor</strong>
+      <span class="award-item__org">"Low-Carbon Comfort and Climate-Resilient Design in Buildings and Complex Infrastructure" — <a href="https://www.mdpi.com/journal/buildings/special_issues/5041OCTUB1#editors" target="_blank" rel="noopener"><em>Buildings</em></a></span>
     </div>
   </div>
   <div class="award-item">
     <span class="award-item__year">2025.12</span>
     <div class="award-item__body">
-      <strong>New paper published</strong>
-      <span class="award-item__org">Journal of Building Engineering</span>
+      <strong>New paper published as corresponding author</strong>
+      <span class="award-item__org"><em>Journal of Building Engineering</em></span>
+      <span class="award-item__detail">"Evaluation of Thermal Control Based on Spatial Thermal Comfort with Reconstructed Environmental Data"</span>
+      <span class="award-item__detail">DOI: <a href="https://doi.org/10.1016/j.jobe.2025.114512" target="_blank" rel="noopener">10.1016/j.jobe.2025.114512</a></span>
     </div>
   </div>
 </div>
