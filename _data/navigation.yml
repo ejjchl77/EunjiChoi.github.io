@@ -17,8 +17,5 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Talks"
-    url: /talks/
-
   - title: "Teaching"
     url: /teaching/
