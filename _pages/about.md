@@ -42,49 +42,38 @@ I develop AI-driven systems that connect real-time information about people — 
 
 ---
 
-## Research Project Experience
+## 🧪 Research Project Experience
 
-* 2025-present: Principal Investigator. "Development of a Multimodal AI Model for Integrated Analysis of Indoor Environmental, Occupancy, and Spatial Data in Buildings"
-  * University of Southern California (USC) | Sponsor: National Research Foundation (NRF) of Korea
-* 2023-present: Research Professor, Center for Carbon Neutrality in Buildings (PI: Jin Woo Moon)
-  * Chung-Ang University | Sponsor: National Research Foundation (NRF) of Korea
-* 2023-2024: Principal Investigator. "PMV-based Optimal Control in Living Lab by Applying the Advanced model for Real-time Personal Variables (MET & CLO) Estimation"
-  * Chung-Ang University | Sponsor: National Research Foundation (NRF) of Korea
-* 2022-2023: Principal Investigator. "Development of an optimal PMV derivation method with a personal factor (CLO & MET) estimation model for multiple occupants"
-  * Chung-Ang University | Sponsor: National Research Foundation (NRF) of Korea
-* 2021-2023: Research Assistant. "Intelligent autonomous building energy environmental management system (iBEEMS)" (PI: Hyeun Jun Moon)
-  * Dankook University | Sponsor: Ministry of Trade, Industry and Energy (MOTIE), Korea
-* 2019-2023: Research Assistant. "Development of an Intelligent Agent Model for Estimating Real-Time Occupant CLO Value and PMV Control Prototype" (PI: Jin Woo Moon)
-  * Chung-Ang University | Sponsor: National Research Foundation (NRF) of Korea
-* 2021-2022: Research Assistant. "Development of an Intelligent Agent-Based Integrated Control Platform for Renewable Energy Hybrid Systems" (PI: Yujin Nam)
-  * Pusan National University | Sponsor: Ministry of Land, Infrastructure and Transport (MOLIT), Korea
-* 2020-2021: Research Assistant. "Development of Semi-Transparent Photovoltaics and IoT Technologies for Solar Signage Applications" (PI: Jongin Hong)
-  * Chung-Ang University | Sponsor: National Research Foundation (NRF) of Korea
-* 2018-2021: Research Assistant. "Development of Energy-Saving Integrated Solutions and Facility Modules for Data Centers with Target PUE of 1.3" (PI: Jin Woo Moon)
-  * Chung-Ang University | Sponsor: Ministry of Land, Infrastructure and Transport (MOLIT), Korea
-* 2021: Research Assistant. "Regional Platform Development and Operation for Green Remodeling" (PI: Jin Chul Park)
-  * Chung-Ang University | Sponsor: Ministry of Land, Infrastructure and Transport (MOLIT), Korea
-* 2017-2018: Research Assistant. "Development of an Artificial Neural Network & Deep-Learning Based Occupant Behavior Recognition and MET Estimation Model for Improving Accuracy of PMV Prediction and Building Energy Efficiency" (PI: Jin Woo Moon)
-  * Chung-Ang University | Sponsor: National Research Foundation (NRF) of Korea
+* **Principal Investigator**, "Development of a Multimodal AI Model for Integrated Analysis of Indoor Environmental, Occupancy, and Spatial Data in Buildings" — USC · NRF Korea *(2025–present)*
+* **Research Professor**, Center for Carbon Neutrality in Buildings (PI: Jin Woo Moon) — Chung-Ang University · NRF Korea *(2023–present)*
+* **Principal Investigator**, "PMV-based Optimal Control in Living Lab by Applying the Advanced model for Real-time Personal Variables (MET & CLO) Estimation" — Chung-Ang University · NRF Korea *(2023–2024)*
+* **Principal Investigator**, "Development of an optimal PMV derivation method with a personal factor (CLO & MET) estimation model for multiple occupants" — Chung-Ang University · NRF Korea *(2022–2023)*
+* **Research Assistant**, "Intelligent autonomous building energy environmental management system (iBEEMS)" (PI: Hyeun Jun Moon) — Dankook University · MOTIE Korea *(2021–2023)*
+* **Research Assistant**, "Development of an Intelligent Agent Model for Estimating Real-Time Occupant CLO Value and PMV Control Prototype" (PI: Jin Woo Moon) — Chung-Ang University · NRF Korea *(2019–2023)*
+* **Research Assistant**, "Development of an Intelligent Agent-Based Integrated Control Platform for Renewable Energy Hybrid Systems" (PI: Yujin Nam) — Pusan National University · MOLIT Korea *(2021–2022)*
+* **Research Assistant**, "Development of Semi-Transparent Photovoltaics and IoT Technologies for Solar Signage Applications" (PI: Jongin Hong) — Chung-Ang University · NRF Korea *(2020–2021)*
+* **Research Assistant**, "Development of Energy-Saving Integrated Solutions and Facility Modules for Data Centers with Target PUE of 1.3" (PI: Jin Woo Moon) — Chung-Ang University · MOLIT Korea *(2018–2021)*
+* **Research Assistant**, "Regional Platform Development and Operation for Green Remodeling" (PI: Jin Chul Park) — Chung-Ang University · MOLIT Korea *(2021)*
+* **Research Assistant**, "Development of an Artificial Neural Network & Deep-Learning Based Occupant Behavior Recognition and MET Estimation Model for Improving Accuracy of PMV Prediction and Building Energy Efficiency" (PI: Jin Woo Moon) — Chung-Ang University · NRF Korea *(2017–2018)*
 
 ---
 
-## Service and Leadership
+## 🤝 Service & Leadership
 
-* 2025-2026: Conference Registration and Management Lead & Scientific Committee Member - IAQVEC 2026, 12th International Conference on Indoor Air Quality, Ventilation & Energy Conservation in Buildings, Los Angeles, USA
-* 2025-present: Academic Committee Member, Korea Institute of Ecological Architecture and Environment (KIEAE)
-* 2023-present: Reviewer (over 20 paper reviews), *Building and Environment*, *Energy and Buildings*, *Journal of Building Engineering*
-* 2024: Master's Thesis Committee Member, Chung-Ang University, Seoul, South Korea
+* **Conference Registration and Management Lead & Scientific Committee Member**, IAQVEC 2026 — 12th International Conference on Indoor Air Quality, Ventilation & Energy Conservation in Buildings, Los Angeles, USA *(2025–2026)*
+* **Academic Committee Member**, Korea Institute of Ecological Architecture and Environment (KIEAE) *(2025–present)*
+* **Reviewer** (20+ paper reviews), *Building and Environment*, *Energy and Buildings*, *Journal of Building Engineering* *(2023–present)*
+* **Master's Thesis Committee Member**, Chung-Ang University, Seoul, South Korea *(2024)*
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-* Architecture software: CAD, Revit, SketchUp
-* Building simulation tools: EnergyPlus, TRNSYS, eQUEST
-* Programming & AI/ML frameworks: Python (data processing, machine learning, deep learning)
-* Databases: MySQL, HeidiSQL
-* IoT sensing & embedded systems: Arduino, Raspberry Pi for multi-sensor data acquisition and control
+* **Architecture software**: CAD, Revit, SketchUp
+* **Building simulation tools**: EnergyPlus, TRNSYS, eQUEST
+* **Programming & AI/ML**: Python (data processing, machine learning, deep learning)
+* **Databases**: MySQL, HeidiSQL
+* **IoT & embedded systems**: Arduino, Raspberry Pi for multi-sensor data acquisition and control
 
 ---
 
