@@ -129,14 +129,14 @@ I develop AI-driven systems that connect real-time information about people, suc
 
 <div class="award-grid">
   <div class="award-item">
-    <span class="award-item__year">2026</span></span>
+    <span class="award-item__year">2026</span>
     <div class="award-item__body">
       <strong>Received the IAQVEC Fellowship Award</strong>
       <span class="award-item__org">IAQVEC 2026</span>
     </div>
   </div>
   <div class="award-item">
-    <span class="award-item__year">2026</span></span>
+    <span class="award-item__year">2026</span>
     <div class="award-item__body">
       <strong>Guest Editor</strong>
       <span class="award-item__org">"Low-Carbon Comfort and Climate-Resilient Design in Buildings and Complex Infrastructure" — <a href="https://www.mdpi.com/journal/buildings/special_issues/5041OCTUB1#editors" target="_blank" rel="noopener"><em>Buildings</em></a></span>
