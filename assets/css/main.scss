@@ -47,6 +47,21 @@
   font-size: 0.85em;
 }
 
+/* H-index / citation metrics under sidebar bio */
+.author__metrics {
+  font-size: 0.85em;
+  color: #6b7280;
+  margin-top: 0.3em;
+}
+
+.author__metric strong {
+  color: #374151;
+}
+
+.author__metric-sep {
+  margin: 0 0.4em;
+}
+
 /* Publications / Intellectual Property card list */
 .pub-list__heading {
   margin-top: 2em;
