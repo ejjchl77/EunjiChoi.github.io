@@ -74,6 +74,15 @@ layout: default
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+
+        {% if page.collection == 'publications' and page.pdfurl %}
+          <div class="pub-pdf">
+            <a class="pub-pdf__download" href="{{ page.pdfurl | relative_url }}" download>⬇ Download PDF</a>
+            <div class="pub-pdf__viewer">
+              <iframe src="{{ page.pdfurl | relative_url }}" title="PDF preview" loading="lazy"></iframe>
+            </div>
+          </div>
+        {% endif %}
       </section>
 
       <footer class="page__meta">

@@ -7,4 +7,5 @@ excerpt: ''
 date: 2023-11-08
 venue: 'South Korea Software Registration No. C2023-050237'
 citation: 'Choi, E.J. et al. (2023). &quot;Intelligent Building Management System Application.&quot; [Software] South Korea Registration No. C2023-050237.'
+pdfurl: '/files/2023-11-software-C2023-050237.pdf'
 ---

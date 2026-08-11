@@ -7,4 +7,5 @@ excerpt: ''
 date: 2026-01-15
 venue: 'South Korea Patent No. 10-2915236'
 citation: 'Choi, E.J. et al. (2026). &quot;The indoor thermal control system and method based on the PMV reflecting personal variable of multiple occupant.&quot; South Korea Patent No. 10-2915236.'
+pdfurl: '/files/2026-01-patent-10-2915236.pdf'
 ---
