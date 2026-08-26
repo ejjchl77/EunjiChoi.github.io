@@ -16,7 +16,7 @@ AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objec
   <span class="about-tag">Occupant Comfort</span>
 </div>
 
-## 🔬 Research Interests
+## Research Interests
 
 <div class="interest-grid">
   <div class="interest-card">
@@ -43,7 +43,7 @@ AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objec
 
 ---
 
-## 💼 Current Position
+## Current Position
 
 <div class="timeline">
   <div class="timeline-item timeline-item--current">
@@ -62,7 +62,7 @@ AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objec
 
 ---
 
-## 🎓 Education
+## Education
 
 <div class="timeline">
   <div class="timeline-item">
@@ -81,7 +81,7 @@ AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objec
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div class="skill-table">
   <div class="skill-row">
@@ -108,7 +108,7 @@ AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objec
 
 ---
 
-## 📰 Recent News
+## Recent News
 
 <div class="award-grid">
   <div class="award-item">
@@ -138,7 +138,7 @@ AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objec
 
 ---
 
-## 🧪 Research Project Experience
+## Research Project Experience
 
 <div class="exp-list">
   <div class="exp-card">
@@ -222,7 +222,7 @@ AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objec
 
 ---
 
-## 🤝 Service &amp; Leadership
+## Service &amp; Leadership
 
 <div class="exp-list">
   <div class="exp-card exp-card--service">
