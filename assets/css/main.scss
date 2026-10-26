@@ -93,17 +93,17 @@
   text-decoration: underline !important;
 }
 
-.pub-item__date {
+.award-item__year.pub-item__date {
   flex: 0 0 7.2em;
   width: 7.2em;
 }
 
-.pub-item__date--manuscripts { background: #2563eb; }
-.pub-item__date--conferences { background: #0d9488; }
-.pub-item__date--books       { background: #7c3aed; }
-.pub-item__date--patents     { background: #b45309; }
-.pub-item__date--designs     { background: #be185d; }
-.pub-item__date--software    { background: #15803d; }
+.award-item__year.pub-item__date--manuscripts { background: #2563eb; }
+.award-item__year.pub-item__date--conferences { background: #0d9488; }
+.award-item__year.pub-item__date--books       { background: #7c3aed; }
+.award-item__year.pub-item__date--patents     { background: #b45309; }
+.award-item__year.pub-item__date--designs     { background: #be185d; }
+.award-item__year.pub-item__date--software    { background: #15803d; }
 
 .pub-item__title {
   font-weight: 700;
@@ -170,56 +170,10 @@
 }
 
 /* Awards & Grants */
-.grant-list {
-  margin-bottom: 1.5em;
-}
-
-.grant-card {
-  padding: 1em 1.25em;
-  margin-bottom: 0.9em;
-  border-radius: 10px;
-  border: 1px solid rgba(0, 0, 0, 0.08);
-  border-left: 4px solid #0d9488;
-  background: #fff;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
-  transition: box-shadow 0.15s ease, transform 0.15s ease;
-}
-
-.grant-card:hover {
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
-  transform: translateY(-1px);
-}
-
-.grant-card__header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 0.4em;
-}
-
-.grant-card__amount {
-  font-weight: 700;
-  font-size: 0.95em;
-  color: #0d9488;
-}
-
-.grant-card__period {
-  font-size: 0.82em;
-  color: #6b7280;
-  white-space: nowrap;
-}
-
-.grant-card__title {
-  margin: 0 0 0.25em 0;
-  font-size: 1.02em;
-  line-height: 1.35;
-  color: #111827;
-}
-
-.grant-card__org {
-  margin: 0;
-  font-size: 0.88em;
-  color: #4b5563;
+.award-item__year.grant-item__period {
+  flex: 0 0 7.2em;
+  width: 7.2em;
+  background: #0d9488;
 }
 
 .award-grid {

@@ -9,38 +9,38 @@ author_profile: true
 
 ## 💰 Research Grants (PI)
 
-<div class="grant-list">
-  <div class="grant-card">
-    <div class="grant-card__header">
-      <span class="grant-card__amount">$42,000</span>
-      <span class="grant-card__period">2025–2026</span>
+<div class="award-grid">
+  <div class="award-item">
+    <span class="award-item__year grant-item__period">2025–2026</span>
+    <div class="award-item__body">
+      <strong>Development of a Multimodal AI Model for Integrated Analysis of Indoor Environmental, Occupancy, and Spatial Data in Buildings</strong>
+      <span class="award-item__org">National Research Foundation (NRF) of Korea · Postdoctoral Research Fellowship — Principal Investigator (100%), 1 year</span>
+      <span class="award-item__detail">Funding: $42,000</span>
     </div>
-    <h3 class="grant-card__title">Development of a Multimodal AI Model for Integrated Analysis of Indoor Environmental, Occupancy, and Spatial Data in Buildings</h3>
-    <p class="grant-card__org">National Research Foundation (NRF) of Korea · Postdoctoral Research Fellowship — Principal Investigator (100%), 1 year</p>
   </div>
-  <div class="grant-card">
-    <div class="grant-card__header">
-      <span class="grant-card__amount">$42,000</span>
-      <span class="grant-card__period">2024–2025</span>
+  <div class="award-item">
+    <span class="award-item__year grant-item__period">2024–2025</span>
+    <div class="award-item__body">
+      <strong>PMV-based Optimal Control in Living Lab by Applying the Advanced Model for Real-time Personal Variables (MET &amp; CLO) Estimation</strong>
+      <span class="award-item__org">National Research Foundation (NRF) of Korea · Postdoctoral Research Fellowship — Principal Investigator (100%), 1 year</span>
+      <span class="award-item__detail">Funding: $42,000</span>
     </div>
-    <h3 class="grant-card__title">PMV-based Optimal Control in Living Lab by Applying the Advanced Model for Real-time Personal Variables (MET &amp; CLO) Estimation</h3>
-    <p class="grant-card__org">National Research Foundation (NRF) of Korea · Postdoctoral Research Fellowship — Principal Investigator (100%), 1 year</p>
   </div>
-  <div class="grant-card">
-    <div class="grant-card__header">
-      <span class="grant-card__amount">$2,000</span>
-      <span class="grant-card__period">2024–2025</span>
+  <div class="award-item">
+    <span class="award-item__year grant-item__period">2024–2025</span>
+    <div class="award-item__body">
+      <strong>Group-Level CLO Estimation and Optimal PMV Modeling for Multi-Occupant Spaces</strong>
+      <span class="award-item__org">Korea Institute of Ecological Architecture and Environment — Principal Investigator (100%), 1 year</span>
+      <span class="award-item__detail">Funding: $2,000</span>
     </div>
-    <h3 class="grant-card__title">Group-Level CLO Estimation and Optimal PMV Modeling for Multi-Occupant Spaces</h3>
-    <p class="grant-card__org">Korea Institute of Ecological Architecture and Environment — Principal Investigator (100%), 1 year</p>
   </div>
-  <div class="grant-card">
-    <div class="grant-card__header">
-      <span class="grant-card__amount">$30,000</span>
-      <span class="grant-card__period">2022–2023</span>
+  <div class="award-item">
+    <span class="award-item__year grant-item__period">2022–2023</span>
+    <div class="award-item__body">
+      <strong>Development of an Optimal PMV Derivation Method with a Personal Factor (CLO &amp; MET) Estimation Model for Multiple Occupants</strong>
+      <span class="award-item__org">National Research Foundation (NRF) of Korea · Doctoral Student Research Fellowship — Principal Investigator (100%), 2 years</span>
+      <span class="award-item__detail">Funding: $30,000</span>
     </div>
-    <h3 class="grant-card__title">Development of an Optimal PMV Derivation Method with a Personal Factor (CLO &amp; MET) Estimation Model for Multiple Occupants</h3>
-    <p class="grant-card__org">National Research Foundation (NRF) of Korea · Doctoral Student Research Fellowship — Principal Investigator (100%), 2 years</p>
   </div>
 </div>
 
