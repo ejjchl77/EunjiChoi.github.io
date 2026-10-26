@@ -164,7 +164,8 @@ AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objec
 
 ---
 
-## Research Project Experience
+<details class="section-toggle">
+<summary>Research Project Experience</summary>
 
 <div class="exp-list">
   <div class="exp-card">
@@ -246,9 +247,12 @@ AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objec
   </div>
 </div>
 
+</details>
+
 ---
 
-## Service &amp; Leadership
+<details class="section-toggle">
+<summary>Service &amp; Leadership</summary>
 
 <div class="exp-list">
   <div class="exp-card exp-card--service">
@@ -280,6 +284,8 @@ AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objec
     <p class="exp-card__org">Chung-Ang University, Seoul, South Korea</p>
   </div>
 </div>
+
+</details>
 
 ---
 
