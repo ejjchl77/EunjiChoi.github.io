@@ -18,27 +18,53 @@ AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objec
 
 ## Research Interests
 
-<div class="interest-grid">
-  <div class="interest-card">
-    <span class="interest-card__icon">🎯</span>
-    <h3 class="interest-card__title">Multi-Objective Building Control</h3>
-    <p class="interest-card__desc">AI frameworks that jointly optimize occupant comfort and energy efficiency</p>
-  </div>
-  <div class="interest-card">
-    <span class="interest-card__icon">📡</span>
-    <h3 class="interest-card__title">Multimodal Human Sensing</h3>
-    <p class="interest-card__desc">Vision- and sensor-based estimation of occupant activity, clothing insulation, and thermal comfort (PMV)</p>
-  </div>
-  <div class="interest-card">
-    <span class="interest-card__icon">🔁</span>
-    <h3 class="interest-card__title">Closed-Loop AI for HVAC/IEQ</h3>
-    <p class="interest-card__desc">Real-time systems linking human-state inference to automated building response</p>
-  </div>
-  <div class="interest-card">
-    <span class="interest-card__icon">🧩</span>
-    <h3 class="interest-card__title">Explainable, Deployable AI</h3>
-    <p class="interest-card__desc">Interpretable, scalable models validated in living-lab and real-building settings</p>
-  </div>
+<style>
+.ri-grid{display:grid;grid-template-columns:1fr;gap:12px;margin:1em 0 1.5em;}
+.ri-card{display:flex;align-items:flex-start;gap:16px;padding:16px 20px;border:1px solid rgba(127,127,127,.25);border-radius:10px;background:transparent;transition:border-color .15s ease, box-shadow .15s ease;}
+.ri-card:hover{border-color:rgba(127,127,127,.5);box-shadow:0 2px 8px rgba(0,0,0,.06);}
+.ri-icon{flex:0 0 40px;height:40px;display:flex;align-items:center;justify-content:center;border-radius:8px;background:rgba(127,127,127,.1);}
+.ri-icon svg{width:22px;height:22px;stroke:currentColor;fill:none;stroke-width:1.75;stroke-linecap:round;stroke-linejoin:round;}
+.ri-body{flex:1;min-width:0;}
+.ri-title{margin:0 0 2px;font-size:1.05em;font-weight:600;line-height:1.3;}
+.ri-desc{margin:0 0 8px;font-size:.92em;opacity:.85;line-height:1.5;}
+.ri-tags{display:flex;flex-wrap:wrap;gap:6px;}
+.ri-tags span{font-size:.75em;padding:2px 9px;border-radius:999px;border:1px solid rgba(127,127,127,.3);opacity:.8;white-space:nowrap;}
+@media (min-width:900px){.ri-grid{grid-template-columns:1fr;}} /* 2열 그리드로 바꾸려면 1fr 1fr */
+</style>
+
+<div class="ri-grid">
+<div class="ri-card">
+<div class="ri-icon"><svg viewBox="0 0 24 24"><path d="M14 4v10.54a4 4 0 1 1-4 0V4a2 2 0 0 1 4 0Z"/></svg></div>
+<div class="ri-body">
+<div class="ri-title">Thermal Comfort and Building Energy Balance</div>
+<div class="ri-desc">Multi-objective control frameworks that jointly address occupant thermal comfort and building energy use.</div>
+<div class="ri-tags"><span>Multi-objective control</span><span>Thermal comfort</span><span>Building energy use</span></div>
+</div>
+</div>
+<div class="ri-card">
+<div class="ri-icon"><svg viewBox="0 0 24 24"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div>
+<div class="ri-body">
+<div class="ri-title">Occupant-Centric Building Control</div>
+<div class="ri-desc">Improving building operation by reflecting real-time occupant information, such as activity and clothing.</div>
+<div class="ri-tags"><span>Occupant information</span><span>Real-time sensing</span><span>Responsive control</span></div>
+</div>
+</div>
+<div class="ri-card">
+<div class="ri-icon"><svg viewBox="0 0 24 24"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg></div>
+<div class="ri-body">
+<div class="ri-title">Multimodal Building Informatics</div>
+<div class="ri-desc">Integrating environmental, occupancy, and spatial data for real-time building analysis.</div>
+<div class="ri-tags"><span>Building informatics</span><span>Multimodal AI</span><span>Data integration</span></div>
+</div>
+</div>
+<div class="ri-card">
+<div class="ri-icon"><svg viewBox="0 0 24 24"><path d="M3 3v18h18"/><path d="m19 9-5 5-4-4-3 3"/></svg></div>
+<div class="ri-body">
+<div class="ri-title">Predictive IEQ Control</div>
+<div class="ri-desc">AI-based prediction of indoor environmental quality and optimal control of building systems.</div>
+<div class="ri-tags"><span>Indoor environmental quality</span><span>Predictive modeling</span><span>Optimal control</span></div>
+</div>
+</div>
 </div>
 
 ---
