@@ -11,12 +11,16 @@
   {% assign pub_authors = pub_authors | replace: "Choi, E.J.", "<strong>Choi, E.J.</strong>" %}
 {% endif %}
 
-<a class="pub-card pub-card--{{ post.category }}" href="{{ base_path }}{{ post.url }}">
-  <div class="pub-card__meta">
-    <span class="pub-card__badge pub-card__badge--{{ post.category }}">{{ post.category }}</span>
-    {% if post.date %}<span class="pub-card__date">{{ post.date | date: "%b %Y" }}</span>{% endif %}
+<a class="award-item pub-item" href="{{ base_path }}{{ post.url }}">
+  {% if post.category == "patents" or post.category == "designs" or post.category == "software" or post.date_precision == "month" %}
+    {% assign pub_date = post.date | date: "%Y.%m" %}
+  {% else %}
+    {% assign pub_date = post.date | date: "%Y.%m.%d" %}
+  {% endif %}
+  <span class="award-item__year pub-item__date pub-item__date--{{ post.category }}">{{ pub_date }}</span>
+  <div class="award-item__body">
+    <span class="pub-item__title">{{ title }}</span>
+    {% if pub_authors %}<span class="pub-item__authors">{{ pub_authors }}</span>{% endif %}
+    {% if post.venue %}<span class="pub-item__venue">{{ post.venue }}</span>{% endif %}
   </div>
-  <h3 class="pub-card__title">{{ title }}</h3>
-  {% if pub_authors %}<p class="pub-card__authors">{{ pub_authors }}</p>{% endif %}
-  {% if post.venue %}<p class="pub-card__venue">{{ post.venue }}</p>{% endif %}
 </a>
