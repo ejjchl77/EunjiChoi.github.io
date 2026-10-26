@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objective building optimization, jointly advancing energy efficiency and occupant comfort through end-to-end Computer Vision pipelines, Multimodal Perception, and Real-time Controls. I develop AI-driven systems that connect real-time information about people, such as their activity, thermal state, and comfort, to how buildings are operated, integrating YOLO, pose estimation, and sensor fusion to infer occupant state and space utilization. My work sits at the intersection of architecture, computer vision, and building control, and centers on closed-loop AI frameworks that turn real-time human-state inference into adaptive HVAC and ventilation control.
+I integrate building environmental systems and artificial intelligence to improve occupant comfort, energy efficiency, and carbon performance. My research uses vision and sensor data to understand occupants and indoor environments, translating this information into human-centered HVAC control. My work spans data collection, AI model development, and control implementation and validation in real buildings, advancing intelligent building operation that responds to changing human needs.
 
 <div class="about-hero__tags">
   <span class="about-tag">Human-Building Integration</span>
@@ -138,6 +138,15 @@ AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objec
 
 <div class="award-grid">
   <div class="award-item">
+    <span class="award-item__year">2026.10</span>
+    <div class="award-item__body">
+      <strong>New paper published as first author</strong>
+      <span class="award-item__org"><em>Indoor and Built Environment</em></span>
+      <span class="award-item__detail">"Impact of Occupant-Centric Thermal Control on Operational Carbon Performance for Building Sustainability"</span>
+      <span class="award-item__detail">DOI: <a href="https://doi.org/10.1177/1420326X261500666" target="_blank" rel="noopener">10.1177/1420326X261500666</a></span>
+    </div>
+  </div>
+  <div class="award-item">
     <span class="award-item__year">2026</span>
     <div class="award-item__body">
       <strong>Received the IAQVEC Fellowship Award</strong>
@@ -163,6 +172,46 @@ AI-Building Researcher with a Ph.D. in Architecture, specializing in multi-objec
 </div>
 
 ---
+
+<style>
+/* Collapsible section toggles */
+.section-toggle {
+  margin: 0.5em 0 1.5em;
+}
+
+.section-toggle > summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5em 0;
+  font-size: 1.65em;
+  font-weight: 700;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  margin-bottom: 0.8em;
+}
+
+.section-toggle > summary::-webkit-details-marker {
+  display: none;
+}
+
+.section-toggle > summary::after {
+  content: "";
+  width: 9px;
+  height: 9px;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(45deg);
+  transition: transform 0.2s ease;
+  opacity: 0.6;
+  margin-right: 4px;
+}
+
+.section-toggle[open] > summary::after {
+  transform: rotate(-135deg);
+}
+</style>
 
 <details class="section-toggle">
 <summary>Research Project Experience</summary>
