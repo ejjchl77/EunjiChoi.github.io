@@ -13,32 +13,36 @@ author_profile: true
   <div class="award-item">
     <span class="award-item__year grant-item__period">2025–2026</span>
     <div class="award-item__body">
-      <strong>Development of a Multimodal AI Model for Integrated Analysis of Indoor Environmental, Occupancy, and Spatial Data in Buildings</strong>
-      <span class="award-item__org">National Research Foundation (NRF) of Korea · Postdoctoral Research Fellowship — Principal Investigator (100%), 1 year</span>
+      <strong>Postdoctoral Research Fellowship — Principal Investigator (100%), 1 year</strong>
+      <span class="award-item__org">National Research Foundation (NRF) of Korea</span>
+      <span class="award-item__org">Development of a Multimodal AI Model for Integrated Analysis of Indoor Environmental, Occupancy, and Spatial Data in Buildings</span>
       <span class="award-item__detail">Funding: $42,000</span>
     </div>
   </div>
   <div class="award-item">
     <span class="award-item__year grant-item__period">2024–2025</span>
     <div class="award-item__body">
-      <strong>PMV-based Optimal Control in Living Lab by Applying the Advanced Model for Real-time Personal Variables (MET &amp; CLO) Estimation</strong>
-      <span class="award-item__org">National Research Foundation (NRF) of Korea · Postdoctoral Research Fellowship — Principal Investigator (100%), 1 year</span>
+      <strong>Postdoctoral Research Fellowship — Principal Investigator (100%), 1 year</strong>
+      <span class="award-item__org">National Research Foundation (NRF) of Korea</span>
+      <span class="award-item__org">PMV-based Optimal Control in Living Lab by Applying the Advanced Model for Real-time Personal Variables (MET &amp; CLO) Estimation</span>
       <span class="award-item__detail">Funding: $42,000</span>
     </div>
   </div>
   <div class="award-item">
     <span class="award-item__year grant-item__period">2024–2025</span>
     <div class="award-item__body">
-      <strong>Group-Level CLO Estimation and Optimal PMV Modeling for Multi-Occupant Spaces</strong>
-      <span class="award-item__org">Korea Institute of Ecological Architecture and Environment — Principal Investigator (100%), 1 year</span>
+      <strong>Principal Investigator (100%), 1 year</strong>
+      <span class="award-item__org">Korea Institute of Ecological Architecture and Environment</span>
+      <span class="award-item__org">Group-Level CLO Estimation and Optimal PMV Modeling for Multi-Occupant Spaces</span>
       <span class="award-item__detail">Funding: $2,000</span>
     </div>
   </div>
   <div class="award-item">
     <span class="award-item__year grant-item__period">2022–2023</span>
     <div class="award-item__body">
-      <strong>Development of an Optimal PMV Derivation Method with a Personal Factor (CLO &amp; MET) Estimation Model for Multiple Occupants</strong>
-      <span class="award-item__org">National Research Foundation (NRF) of Korea · Doctoral Student Research Fellowship — Principal Investigator (100%), 2 years</span>
+      <strong>Doctoral Student Research Fellowship — Principal Investigator (100%), 2 years</strong>
+      <span class="award-item__org">National Research Foundation (NRF) of Korea</span>
+      <span class="award-item__org">Development of an Optimal PMV Derivation Method with a Personal Factor (CLO &amp; MET) Estimation Model for Multiple Occupants</span>
       <span class="award-item__detail">Funding: $30,000</span>
     </div>
   </div>
