@@ -140,7 +140,7 @@ I integrate building environmental systems and artificial intelligence to improv
   <div class="award-item">
     <span class="award-item__year">2026.10</span>
     <div class="award-item__body">
-      <strong>New paper published as first author</strong>
+      <strong>New first-author paper published</strong>
       <span class="award-item__org"><em>Indoor and Built Environment</em></span>
       <span class="award-item__detail">"Impact of Occupant-Centric Thermal Control on Operational Carbon Performance for Building Sustainability"</span>
       <span class="award-item__detail">DOI: <a href="https://doi.org/10.1177/1420326X261500666" target="_blank" rel="noopener">10.1177/1420326X261500666</a></span>
@@ -156,14 +156,14 @@ I integrate building environmental systems and artificial intelligence to improv
   <div class="award-item">
     <span class="award-item__year">2026</span>
     <div class="award-item__body">
-      <strong>Guest Editor</strong>
+      <strong>Appointed Guest Editor for a Special Issue of <em>Buildings</em></strong>
       <span class="award-item__org">"Low-Carbon Comfort and Climate-Resilient Design in Buildings and Complex Infrastructure" — <a href="https://www.mdpi.com/journal/buildings/special_issues/5041OCTUB1#editors" target="_blank" rel="noopener"><em>Buildings</em></a></span>
     </div>
   </div>
   <div class="award-item">
     <span class="award-item__year">2025.12</span>
     <div class="award-item__body">
-      <strong>New paper published as corresponding author</strong>
+      <strong>New corresponding-author paper published</strong>
       <span class="award-item__org"><em>Journal of Building Engineering</em></span>
       <span class="award-item__detail">"Evaluation of Thermal Control Based on Spatial Thermal Comfort with Reconstructed Environmental Data"</span>
       <span class="award-item__detail">DOI: <a href="https://doi.org/10.1016/j.jobe.2025.114512" target="_blank" rel="noopener">10.1016/j.jobe.2025.114512</a></span>
